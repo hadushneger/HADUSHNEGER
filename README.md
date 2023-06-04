@@ -1,7 +1,6 @@
 ### Hi there 👋
-
 <!--
-**hadushneger/HADUSHNEGER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ሓዱሽ ነገር/HADUSHNEGER** Hadush Neger Mass-Media focuses on issuess like polotics, social, economic, art, documentories & Entertainment.
 
 Here are some ideas to get you started:
 
