@@ -1,4 +1,3 @@
-### Hi there 👋
 <!--
 **ሓዱሽ ነገር/HADUSHNEGER** Hadush Neger Mass-Media focuses on issuess like polotics, social, economic, art, documentories & Entertainment.
 
